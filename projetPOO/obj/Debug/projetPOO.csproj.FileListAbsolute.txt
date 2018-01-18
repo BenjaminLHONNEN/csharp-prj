@@ -1,0 +1,15 @@
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\bin\Debug\projetPOO.exe.config
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\bin\Debug\projetPOO.exe
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\bin\Debug\projetPOO.pdb
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\obj\Debug\projetPOO.csprojResolveAssemblyReference.cache
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\obj\Debug\MainWindow.g.cs
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\obj\Debug\App.g.cs
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\obj\Debug\projetPOO_MarkupCompile.cache
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\obj\Debug\projetPOO_MarkupCompile.lref
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\obj\Debug\MainWindow.baml
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\obj\Debug\projetPOO.g.resources
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\obj\Debug\projetPOO.Properties.Resources.resources
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\obj\Debug\projetPOO.csproj.GenerateResource.Cache
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\obj\Debug\projetPOO.csproj.CoreCompileInputs.cache
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\obj\Debug\projetPOO.exe
+C:\Users\probe\Documents\Visual Studio 2017\Projects\projetPOO\projetPOO\obj\Debug\projetPOO.pdb
